@@ -19,7 +19,7 @@ function App() {
               SKILLS
             </h2>
             <div className="w-full flex flex-col gap-y-6 px-9">
-              <div className=" w-[70%] mx-auto flex flex-col gap-y-7 text-center ">
+              <div className=" w-[100%] mx-auto flex flex-col gap-y-7 text-center ">
                 <div>
                   <p>HTML</p>
                   <div className="h-[9px] bg-red-200 relative rounded-md">
