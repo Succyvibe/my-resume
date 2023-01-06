@@ -19,7 +19,7 @@ function App() {
               SKILLS
             </h2>
             <div className="w-full flex flex-col gap-y-6 px-9">
-              <div className=" w-[50%] mx-auto flex flex-col gap-y-7 text-center ">
+              <div className=" w-[70%] mx-auto flex flex-col gap-y-7 text-center ">
                 <div>
                   <p>HTML</p>
                   <div className="h-[9px] bg-red-200 relative rounded-md">
@@ -69,7 +69,7 @@ function App() {
 
         <div className="flex-1">
           <h3 className="text-red-800 font-medium text-lg">Summary</h3>
-          <p>
+          <p className="text-[14px]">
             Frontend Developer with 1+ years experience working with HTML CSS
             JavaScript Vuejs and Tailwindcss to develop scalable, and innovative
             software and deliver exceptional user experience. Adept at
