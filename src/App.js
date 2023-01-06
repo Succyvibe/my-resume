@@ -2,11 +2,11 @@
 
 function App() {
   return (
-    <main className="w-full">
+    <main className="w-full min-h-screen">
       <div className="w-full flex">
         <div className="w-[40%]">
           <div className="flex w-full flex-col gap-y-5 text-red-800 pt-3">
-            <div className="w-[55%] mx-auto flex flex-col gap-y-6 items-center">
+            <div className="w-[100%]  flex flex-col gap-y-6 items-center">
               <h1 className="text-2xl">Success Ibekwe</h1>
               <h4 className="text-md font-medium">FRONT-END DEVELOPER</h4>
               <p>Portharcout, River State</p>
@@ -19,7 +19,7 @@ function App() {
               SKILLS
             </h2>
             <div className="w-full flex flex-col gap-y-6 px-9">
-              <div className="flex flex-col gap-y-7 text-center ">
+              <div className=" w-[50%] mx-auto flex flex-col gap-y-7 text-center ">
                 <div>
                   <p>HTML</p>
                   <div className="h-[9px] bg-red-200 relative rounded-md">
